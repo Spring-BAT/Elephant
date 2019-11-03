@@ -289,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572771232605</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="A package in order to compare to interface and abstract">
+      <created>1572773613681</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1572773613681</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -316,7 +323,8 @@
     <MESSAGE value="reading material&#10;reading material" />
     <MESSAGE value=" package about reading_material" />
     <MESSAGE value="a package about reading_material" />
-    <option name="LAST_COMMIT_MESSAGE" value="a package about reading_material" />
+    <MESSAGE value="A package in order to compare to interface and abstract" />
+    <option name="LAST_COMMIT_MESSAGE" value="A package in order to compare to interface and abstract" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Notifications" timestamp="1572770827337">

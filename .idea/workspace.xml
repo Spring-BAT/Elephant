@@ -104,7 +104,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -231,7 +231,7 @@
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\asus\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -326,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572774302619</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="a package about reading material">
+      <created>1572793444519</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1572793444519</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -355,17 +362,17 @@
     <MESSAGE value="a package about reading_material" />
     <MESSAGE value="A package in order to compare to interface and abstract" />
     <MESSAGE value="a package about reading material" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <option name="LAST_COMMIT_MESSAGE" value="a package about reading material" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Notifications" timestamp="1572770827337">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="71" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1572770827337" />
-    <state x="505" y="175" key="FileChooserDialogImpl" timestamp="1572774104493">
+    <state x="505" y="175" key="FileChooserDialogImpl" timestamp="1572793328775">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="505" y="175" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1572774104493" />
+    <state x="505" y="175" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1572793328775" />
     <state x="545" y="333" width="382" height="173" key="Github.CreateGistDialog" timestamp="1572770946915">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -390,10 +397,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="409" y="131" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1572505932126" />
-    <state x="267" y="86" key="SettingsEditor" timestamp="1572793210889">
+    <state x="267" y="86" key="SettingsEditor" timestamp="1572793981754">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="267" y="86" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1572793210889" />
+    <state x="267" y="86" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1572793981754" />
     <state x="361" y="137" key="Vcs.Push.Dialog.v2" timestamp="1572770065752">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

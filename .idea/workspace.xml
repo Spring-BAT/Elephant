@@ -99,8 +99,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="154" />
-    <option name="y" value="36" />
+    <option name="x" value="19" />
+    <option name="y" value="39" />
     <option name="width" value="1400" />
     <option name="height" value="820" />
   </component>
@@ -378,7 +378,7 @@
       <workItem from="1359379250712" duration="1302000" />
       <workItem from="1572849046268" duration="2233000" />
       <workItem from="1572852921039" duration="407000" />
-      <workItem from="1572853379550" duration="1039000" />
+      <workItem from="1572853379550" duration="1190000" />
     </task>
     <task id="LOCAL-00001" summary="reading material&#10;reading material">
       <created>1572505853404</created>
@@ -531,10 +531,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4981000" />
+    <option name="totallyTimeSpent" value="5132000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="154" y="36" width="1400" height="820" extended-state="0" />
+    <frame x="19" y="39" width="1400" height="820" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
